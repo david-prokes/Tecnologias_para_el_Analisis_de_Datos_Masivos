@@ -1,1 +1,3 @@
-"# Tecnolog¡as para el An lisis de Datos Masivos." 
+# Tecnologías para el Análisis de Datos Masivos.
+## Asignatura del Máster de Análisis de Datos Masivos
+### David Prokes 
