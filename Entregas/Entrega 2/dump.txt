@@ -1,0 +1,23 @@
+commit f575fc860dee920ae218f5c3594d26de315ec781
+Author: David <idavidprokesi@gmail.com>
+Date:   Sun Oct 20 12:21:13 2024 +0200
+
+    Actualización de README
+
+commit 21ec99617dba736e29116aa038d5dc06efdce524
+Author: David <idavidprokesi@gmail.com>
+Date:   Sun Oct 20 12:13:34 2024 +0200
+
+    Carga de Entrega 2 y carpetas Entregas y Pruebas
+
+commit 27f0af62c601fd72a7e9e8968dde507f610f514f
+Author: David <idavidprokesi@gmail.com>
+Date:   Tue Oct 15 14:14:05 2024 +0200
+
+    Actualización del archivo README
+
+commit 047398329d4ab1ca68d71b45f410e66991536647
+Author: David <idavidprokesi@gmail.com>
+Date:   Tue Oct 15 14:07:11 2024 +0200
+
+    Creación del repertorio
