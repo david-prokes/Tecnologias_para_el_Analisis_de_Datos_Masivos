@@ -6,4 +6,4 @@ Aqui encontrarás dos carpetas:
 - **Entregas**: donde se encuentran las tareas a realizar fuera de clase.
 - **Pruebas**: donde se encuentran los distintos exámenes.
 
-*Entrega 2 se encuentra en la carpeta Entregas, ahí encontrarás también el fichero dump.txt correspondiente*
+*Entrega 3 se encuentra en la carpeta Entregas, ahí encontrarás también el fichero readme correspondiente*
